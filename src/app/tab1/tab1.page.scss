@@ -1,0 +1,19 @@
+ion-card {
+  border-radius: 20px;
+  text-align: center;
+
+  img {
+    height: 300px;
+    object-fit: cover;
+  }
+}
+
+ion-card-title {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 16px;
+  margin-top: 10px;
+}
