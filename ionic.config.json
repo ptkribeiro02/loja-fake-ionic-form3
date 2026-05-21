@@ -1,0 +1,7 @@
+{
+  "name": "loja-fake",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
